@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\misteria1"
+	},
+	{
+		"path": "..\\.git"
+	},
+	{
+		"path": "..\\node_modules"
+	},
+	{
+		"path": "..\\public"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {}
+}
